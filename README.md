@@ -85,3 +85,13 @@ print("Setup Working")
 Miniconda is used to manage isolated Python environments.
 The `ds_env` environment is created for Data Science work, where all required libraries can be installed and executed without affecting the system setup.
 
+
+
+
+
+    
+
+    
+
+
+
