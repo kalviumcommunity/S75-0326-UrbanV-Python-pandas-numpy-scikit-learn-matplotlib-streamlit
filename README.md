@@ -133,3 +133,13 @@ Each code cell is supported by Markdown that explains its purpose and output.
 The goal is to create a clean, understandable workflow that others can easily follow.
 This improves collaboration, debugging, and overall presentation of data work.
 Well-documented notebooks ensure that both logic and results are communicated effectively.
+
+
+# Data Science Project Structure
+
+This project demonstrates a clean and organized folder structure for Data Science workflows.
+Data is separated into raw and processed formats to maintain integrity and reproducibility.
+Notebooks are used for exploration and analysis, while scripts store reusable code.
+All generated results and outputs are stored separately to avoid confusion with source data.
+The structure is designed to be simple, scalable, and easy to navigate.
+This organization improves collaboration, debugging, and long-term project maintenance.
