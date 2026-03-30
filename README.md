@@ -143,3 +143,14 @@ Notebooks are used for exploration and analysis, while scripts store reusable co
 All generated results and outputs are stored separately to avoid confusion with source data.
 The structure is designed to be simple, scalable, and easy to navigate.
 This organization improves collaboration, debugging, and long-term project maintenance.
+
+
+# Data Organization Project
+
+This project demonstrates proper data organization across raw, processed, and output stages.
+Raw data is stored unchanged to preserve integrity and reproducibility.
+Processed data contains cleaned and transformed datasets derived from raw inputs.
+Outputs include plots, reports, and models generated from processed data.
+A clear separation between these stages prevents data corruption and confusion.
+The workflow follows a one-directional pipeline: raw → processed → outputs.
+This structure ensures the project remains clean, traceable, and reproducible.
