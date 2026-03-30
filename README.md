@@ -123,3 +123,13 @@ Kernel restart is used to clear all variables and reset the notebook state.
 Interrupt is used to safely stop long-running or stuck code without restarting everything.  
 The notebook highlights when to use restart vs interrupt for better debugging.  
 This is essential for maintaining clean, reproducible, and predictable notebooks.
+
+
+# Markdown Practice Notebook
+
+This notebook demonstrates how to use Markdown in Jupyter to clearly document code and explain analysis steps.
+It includes structured headings, lists, inline code, and code blocks for better readability.
+Each code cell is supported by Markdown that explains its purpose and output.
+The goal is to create a clean, understandable workflow that others can easily follow.
+This improves collaboration, debugging, and overall presentation of data work.
+Well-documented notebooks ensure that both logic and results are communicated effectively.
