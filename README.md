@@ -114,3 +114,12 @@ Markdown cells are used to explain the logic, structure, and results in a readab
 The notebook shows simple examples of both cell types and how to switch between them.  
 It is structured to separate computation from explanation clearly.  
 This is a foundational skill for writing clean and professional data science notebooks.
+
+# Understanding Jupyter Kernel Control
+
+This notebook demonstrates how Jupyter kernels manage code execution and state.  
+It shows how to run cells in order and how execution depends on the kernel’s memory.  
+Kernel restart is used to clear all variables and reset the notebook state.  
+Interrupt is used to safely stop long-running or stuck code without restarting everything.  
+The notebook highlights when to use restart vs interrupt for better debugging.  
+This is essential for maintaining clean, reproducible, and predictable notebooks.
