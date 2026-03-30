@@ -87,11 +87,20 @@ The `ds_env` environment is created for Data Science work, where all required li
 
 
 
+# Jupyter Notebook Setup and Navigation
 
+In this milestone, I successfully launched Jupyter Notebook from my local environment using the Conda environment `ds_env`. I ensured the environment was active before starting Jupyter.
 
-    
+After launching, I explored the Jupyter Home interface and understood its key components such as the file browser, navigation breadcrumbs, and file type indicators.
 
-    
+I practiced navigating through directories and located my project folder to ensure all work is saved in the correct location.
 
+I created a new notebook inside the project folder and verified that it was using the correct Python kernel.
 
+To confirm functionality, I executed a simple code cell successfully.
 
+I also performed basic file management tasks such as renaming, saving, closing, and reopening the notebook.
+
+This milestone helped me understand how to organize my workspace properly and avoid common mistakes like working in incorrect directories.
+
+Overall, I am now confident in launching, navigating, and managing notebooks in Jupyter for future data science tasks.
