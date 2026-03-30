@@ -104,3 +104,13 @@ I also performed basic file management tasks such as renaming, saving, closing, 
 This milestone helped me understand how to organize my workspace properly and avoid common mistakes like working in incorrect directories.
 
 Overall, I am now confident in launching, navigating, and managing notebooks in Jupyter for future data science tasks.
+
+
+# Understanding Code vs Markdown Cells
+
+This notebook demonstrates the difference between Code and Markdown cells in Jupyter Notebook.  
+Code cells are used to execute Python code and produce outputs.  
+Markdown cells are used to explain the logic, structure, and results in a readable format.  
+The notebook shows simple examples of both cell types and how to switch between them.  
+It is structured to separate computation from explanation clearly.  
+This is a foundational skill for writing clean and professional data science notebooks.
