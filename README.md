@@ -154,3 +154,13 @@ Outputs include plots, reports, and models generated from processed data.
 A clear separation between these stages prevents data corruption and confusion.
 The workflow follows a one-directional pipeline: raw → processed → outputs.
 This structure ensures the project remains clean, traceable, and reproducible.
+
+
+# Python Data Analysis Script
+
+This project demonstrates how to create and run a basic Python script for simple data analysis tasks.  
+The script performs basic calculations on sample data and prints the results to the console.  
+It helps understand how Python scripts execute from top to bottom.  
+Unlike notebooks, scripts do not store state and must be run entirely each time.  
+This is useful for automation, reuse, and building real-world workflows.  
+Run the script using the terminal or an editor like VS Code.  
