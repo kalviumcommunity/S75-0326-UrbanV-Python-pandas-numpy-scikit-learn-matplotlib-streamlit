@@ -164,3 +164,24 @@ It helps understand how Python scripts execute from top to bottom.
 Unlike notebooks, scripts do not store state and must be run entirely each time.  
 This is useful for automation, reuse, and building real-world workflows.  
 Run the script using the terminal or an editor like VS Code.  
+
+# Python Data Types – Milestone README
+This milestone introduces Python’s core data types: numbers (integers and floats) and strings.
+You will learn how to perform basic arithmetic operations and manipulate text data effectively.
+It focuses on understanding how Python treats different types and avoiding common mistakes.
+You will practice converting between numbers and strings to prevent type errors.
+You will also use type inspection to debug and validate your code.
+By completing this, you will write clearer, more predictable, and reliable Python programs.
+
+
+
+
+# Python Collections Milestone
+
+This project demonstrates Python’s core data structures: lists, tuples, and dictionaries.  
+Lists are mutable and useful for dynamic data manipulation.  
+Tuples are immutable and protect fixed data from accidental changes.  
+Dictionaries store data using key-value pairs for structured access.  
+The script shows how to create, access, and modify these collections.  
+It also highlights differences between mutable and immutable structures.  
+This helps in choosing the right data structure for real-world problems.
